@@ -3,5 +3,5 @@
 * Input 2: +
 * Input 3: 5
 * Output: 10
-* I am currently working on improving this to allow complex caluclations such as:
+* I am currently working on improving this to allow complex calculations such as:
 * X + Y / Z * N
