@@ -1,4 +1,4 @@
-* Only works inputting a number, operator, and second number in a singular order fashion as prompted (see below)
+* Only works inputting a number, operator, and second number in a singular order fashion as prompted (see below) \n
 Input 1: 5
 Input 2: +
 Input 3: 5
